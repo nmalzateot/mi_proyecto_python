@@ -20,7 +20,7 @@ def despedirse(nombre):
     Returns:
         Un mensaje de despedida.
     """
-    return f"¡Adiós, {nombre}!"
+    return f"¡Chao, {nombre}!"
 
 if __name__ == "__main__":
     nombre = input("Ingrese su nombre: ")
